@@ -1,0 +1,5 @@
+
+train: D:/Hair Style Detection/data/train  # Correct path for training data
+val: D:/Hair Style Detection/data/val      # Correct path for validation data
+nc: 5  # Number of classes (Straight, Wavy, Curly, Kinky, Dreadlocks)
+names: ['Straight', 'Wavy', 'Curly', 'Kinky', 'Dreadlocks']

@@ -1,0 +1,4 @@
+ultralytics>=8.0.0  # For YOLOv8
+opencv-python>=4.5.5  # For real-time webcam detection
+torch>=1.9.0  # PyTorch is required for training YOLOv8
+scikit-learn
